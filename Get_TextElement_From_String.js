@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<p contenteditable="true">This is a paragraph. It is editable. Try to change this text.</p>
+<div contenteditable="true">This is a paragraph. It is editable. Try to change this text.</div>
 
 </body>
 </html>
